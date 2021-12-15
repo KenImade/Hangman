@@ -1,0 +1,7 @@
+--- !ruby/object:Game
+secret_word: thief
+char_guessed: _____
+guesses:
+- "\e[31ma\e[0m"
+- "\e[31ma\e[0m"
+turns: 6

@@ -1,0 +1,7 @@
+--- !ruby/object:Game
+secret_word: algonquin
+char_guessed: a________
+guesses:
+- "\e[32ma\e[0m"
+- "\e[31me\e[0m"
+turns: 10

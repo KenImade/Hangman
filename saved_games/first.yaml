@@ -1,0 +1,8 @@
+--- !ruby/object:Game
+secret_word: mongoose
+char_guessed: mo__oo__
+guesses:
+- a
+- o
+- m
+turns: 12

@@ -1,0 +1,7 @@
+--- !ruby/object:Game
+secret_word: zeppelin
+char_guessed: _eppe___
+guesses:
+- p
+- e
+turns: 9

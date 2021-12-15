@@ -1,0 +1,10 @@
+--- !ruby/object:Game
+secret_word: rumor
+char_guessed: ___o_
+guesses:
+- a
+- e
+- i
+- s
+- o
+turns: 3

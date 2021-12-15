@@ -1,0 +1,7 @@
+--- !ruby/object:Game
+secret_word: sycophantic
+char_guessed: ___o__a____
+guesses:
+- a
+- o
+turns: 12
